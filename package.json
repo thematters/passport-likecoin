@@ -1,6 +1,6 @@
 {
   "name": "passport-likecoin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LikeCoin (like.co) authentication strategy for Passport and Node.js.",
   "main": "./lib",
   "repository": {
