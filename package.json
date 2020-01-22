@@ -1,11 +1,11 @@
 {
-  "name": "passport-likecoin",
+  "name": "@matters/passport-likecoin",
   "version": "0.1.1",
   "description": "LikeCoin (like.co) authentication strategy for Passport and Node.js.",
   "main": "./lib",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thematters/passport-likecoin.git"
+  "repository": "thematters/passport-likecoin",
+  "script": {
+    "publish": "np"
   },
   "keywords": [
     "passport",
