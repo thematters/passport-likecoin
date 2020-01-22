@@ -4,7 +4,7 @@
   "description": "LikeCoin (like.co) authentication strategy for Passport and Node.js.",
   "main": "./lib",
   "repository": "thematters/passport-likecoin",
-  "script": {
+  "scripts": {
     "publish": "np"
   },
   "keywords": [
